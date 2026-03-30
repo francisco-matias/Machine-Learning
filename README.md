@@ -1,5 +1,4 @@
 # Machine-Learning
-# Machine Learning Project
 
 This project explores machine learning techniques applied to both regression and computer vision tasks, focusing on model performance, robustness and real-world data challenges such as noise and class imbalance.
 
