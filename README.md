@@ -8,7 +8,7 @@ This project explores machine learning techniques applied to both regression and
 
 You can find the full project report here:
 
-👉 [Project Report]((https://raw.githubusercontent.com/francisco-matias/Machine-Learning/39cb0e5a9ae8688d58fc4cfe2ea2cda465d4b2a9/ML_report.pdf)
+👉 [Project Report](https://raw.githubusercontent.com/francisco-matias/Machine-Learning/39cb0e5a9ae8688d58fc4cfe2ea2cda465d4b2a9/ML_report.pdf)
 
 ---
 
